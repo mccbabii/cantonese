@@ -1,58 +1,38 @@
-1
-00:00:01,585 --> 00:00:03,255
-
-
-2
-00:00:03,255 --> 00:00:06,505
-
-
-3
-00:00:06,625 --> 00:00:09,605
-
-
-4
-00:00:09,605 --> 00:00:12,305
-
-
-5
-00:00:12,305 --> 00:00:14,020
-
-
 6
 00:00:15,000 --> 00:00:18,060
-Making things disappear is my true potential
+我真正嘅潛能係令啲嘢消失
 
 7
 00:00:21,980 --> 00:00:24,260
-Did you make Folk disappear?
+你搞到 Folk消失咗？
 
 8
 00:00:24,260 --> 00:00:26,060
-I can’t even control my own power.
+我控制唔到我嘅能力
 
 9
 00:00:26,220 --> 00:00:27,860
-You must bring it back
+你要帶返佢返嚟
 
 10
 00:00:27,860 --> 00:00:30,580
-You need to feel guilty and want Folk to come back
+你要覺得內疚，想 Folk 返番嚟
 
 11
 00:00:30,580 --> 00:00:32,019
-Folk, can you hear me?
+Folk 你聽唔聽到？
 
 12
 00:00:32,020 --> 00:00:35,380
-I’m sorry. I’m sorry.
+Folk 對唔住，Folk 對唔住
 
 13
 00:00:35,560 --> 00:00:37,560
-You’re one of those Gifted kids
+你係 Gifted 班嘅同學
 
 14
 00:00:37,560 --> 00:00:39,560
-Who’s that Gifted kid?
+嗰個 Gifted 班仔邊個嚟？
 
 15
 00:00:39,620 --> 00:00:42,480
@@ -60,753 +40,625 @@ Every potential has a cause and effect
 
 16
 00:00:42,540 --> 00:00:44,800
-Namtaan has a power to know stuff about other people
+Namtaan 有能力知道其他人嘢事
 
 17
 00:00:44,800 --> 00:00:47,519
-because she is a… curious person.
+因為佢...好有好奇心
 
 18
 00:00:47,680 --> 00:00:50,400
-I touched an object and saw strange images.
+我掂到啲嘢見到啲好奇怪嘅畫面
 
 19
 00:00:50,420 --> 00:00:52,520
-It’s a flashback of what the item has been through in the past
+個畫面係嗰樣物件以前嘅？？？
 
 20
 00:00:52,520 --> 00:00:54,300
-Who’s Medfai?
-
-21
-00:01:04,540 --> 00:01:07,415
-
-
-22
-00:01:07,415 --> 00:01:10,355
-
-
-23
-00:01:11,500 --> 00:01:12,500
-
+邊個係 Medfai？
 
 24
 00:01:14,060 --> 00:01:15,520
-How is it going, Namtaan?
+點呀 Namtaan
 
 25
 00:01:21,000 --> 00:01:23,660
-This type of indie music… it must be Korn’s
+啲歌咁獨立，一定係 Korn 嘅
 
 26
 00:01:25,780 --> 00:01:27,100
-Next item.
+下一樣嘢
 
 27
 00:01:31,440 --> 00:01:34,380
-If you’ve read fictions about kids with superpowers,
+如果你有睇過講超能力嘅小說
 
 28
 00:01:34,440 --> 00:01:37,840
-you’d know that the storylines are not much different
-
-29
-00:01:37,840 --> 00:01:40,660
-
+你會知啲故事其實都差唔多
 
 30
 00:01:40,660 --> 00:01:43,580
-It starts with a kid living in a boring world
+由一個住喺好悶嘅世界上嘅一個細路開始
 
 31
 00:01:43,720 --> 00:01:46,740
-until one day everything changes for the better
-
-32
-00:01:46,760 --> 00:01:49,720
-
-
-33
-00:01:49,740 --> 00:01:50,539
-
+直到有一日所有嘢都變好
 
 34
 00:01:50,540 --> 00:01:53,980
-Being left under the bed for so long that it’s covered in dust…
+喺床下底好耐搞到鋪晒塵
 
 35
 00:01:54,080 --> 00:01:55,740
-This must be Ohm’s.
-
-36
-00:01:56,360 --> 00:01:57,360
-
+一定係 Ohm 嘅
 
 37
 00:01:57,980 --> 00:01:59,320
-On to the last one.
+最後一樣
 
 38
 00:01:59,620 --> 00:02:00,860
-Give it a try.
-
-39
-00:02:06,200 --> 00:02:07,260
-
+試下
 
 40
 00:02:11,900 --> 00:02:13,380
-This one is yours.
+呢個係你嘅
 
 41
 00:02:14,460 --> 00:02:16,680
-It is a gift given to you on your 15th birthday
+係你 15 歲嘅生日禮物
 
 42
 00:02:17,000 --> 00:02:18,920
-You’ve kept it close to you ever since.
+咁耐以嚟你一直都用緊
 
 43
 00:02:22,380 --> 00:02:24,859
-I’ve used this pen for 12 years.
+我用咗呢支筆 12 年
 
 44
 00:02:25,660 --> 00:02:27,260
-Good job, Namtaan.
+做得好 Namtaan
 
 45
 00:02:27,560 --> 00:02:29,680
-You’ve made significant progress in developing your potential.
-
-46
-00:02:30,460 --> 00:02:33,140
-
+你嘅潛能開發得好好
 
 47
 00:02:34,660 --> 00:02:37,820
-I used to think that it was just an imagination.
+我以前以為係想幻象嚟
 
 48
 00:02:40,340 --> 00:02:42,500
-Why the numbers are rising so high?
+點解個數升得咁快
 
 49
 00:02:42,700 --> 00:02:45,399
-Until the day I had a real superpower.
+直到有一日我有真正嘅超能力
 
 50
 00:02:45,700 --> 00:02:47,820
-Are you hiding anything from me?
+你係咪有咩唔同我講？
 
 51
 00:02:49,840 --> 00:02:52,540
-She’d got so much better over the past few years
+佢呢幾年已經好咗好多
 
 52
 00:02:52,560 --> 00:02:54,340
-Why has she gone back to when she was sick?
+但點解佢依家又番番去以前噉？
 
 53
 00:02:54,340 --> 00:02:57,040
-What is your Gifted program anyway?
+Gifted 班究竟係咩嚟？
 
 54
 00:02:57,040 --> 00:03:00,519
-As I have mentioned to you, Namtaan is gifted
+正如我同你講過噉 Namtaan 係 Gifted
 
 55
 00:03:00,520 --> 00:03:03,920
-She’d also had abnormally high blood pressure since she was young
+佢由細到大都有高血壓
 
 56
 00:03:03,920 --> 00:03:07,859
-If not controlled properly, she may have a seizure and become paralyzed
+如果冇好好控制，佢可能會病發而癱咗
 
 57
 00:03:07,860 --> 00:03:09,080
-Mom!
+阿媽！
 
 58
 00:03:09,260 --> 00:03:11,260
-If something worse happens, will it be worth it?
+如果有更差嘅情況發生，噉值得咩？
 
 59
 00:03:13,660 --> 00:03:16,260
-There’s nothing to be worried, I can guarantee
+我可以保証冇事㗎
 
 60
 00:03:16,800 --> 00:03:18,660
-I opposed the idea since she was transferred here.
+我由佢轉過嚟開始已經唔同意
 
 61
 00:03:18,660 --> 00:03:21,220
-As a kid with a superpower,
+有超能力嘅細路
 
 62
 00:03:21,760 --> 00:03:25,600
-I don’t know how high the expectations people have of me are.
+我唔知其他人對我嘅期望有幾高
 
 63
 00:03:29,360 --> 00:03:32,880
-But I have quite a high expectation of myself.
-
-64
-00:03:32,880 --> 00:03:35,780
-
-
-65
-00:03:35,780 --> 00:03:36,280
-
+但我對自己有好高嘅期望
 
 66
 00:05:04,120 --> 00:05:05,840
-I want to be a doctor.
+我想做醫生
 
 67
 00:05:05,840 --> 00:05:07,440
-Not only to cure myself, but I also think that
+唔止係醫我自己，我仲諗
 
 68
 00:05:07,440 --> 00:05:10,200
-if I can make it, my mom will be proud.
+如果我做到，我阿媽會好為我感到驕傲
 
 69
 00:05:10,320 --> 00:05:14,420
-Can I have an answer that is not the version you give to adults?
+我想聽下你唔係畀大人嘅答案
 
 70
 00:05:15,940 --> 00:05:17,340
-I don’t know.
+我唔知
 
 71
 00:05:17,540 --> 00:05:20,320
-I used to read a novel
+我以前睇小說
 
 72
 00:05:20,320 --> 00:05:23,640
-The heroine is a detective with a psychic power
+個英雄係個偵探有通靈嘅能力
 
 73
 00:05:24,020 --> 00:05:28,539
-It was fun but it’s just a novel.
+好有趣，但佢只係小說嚟
 
 74
 00:05:28,860 --> 00:05:32,900
-For a special person, whatever she wants to do, she can do it.
+特別嘅人想做嘅嘢佢都做到
 
 75
 00:05:33,560 --> 00:05:35,320
-Thank you.
+多謝
 
 76
 00:05:36,140 --> 00:05:41,479
-Okay, each potential is caused by a different reason
+好，每個潛能都係因為唔同原因出現嘅
 
 77
 00:05:41,760 --> 00:05:47,340
-No matter what it is, the best way to maintain it
+無論係咩都好，想好好維持佢最好嘅方法係
 
 78
 00:05:47,340 --> 00:05:50,900
-is to gain more knowledge through reading.
+讀多啲書吸收多啲知識
 
 79
 00:05:50,900 --> 00:05:54,140
-I have prepared each of you a list of books to read,
+我根據你哋嘅潛能同興趣
 
 80
 00:05:54,440 --> 00:05:56,560
-based on your potential and passion
+為你哋每個人準備咗一堆要讀嘅書
 
 81
 00:05:56,560 --> 00:06:00,100
-Claire, why don’t you tell me about your passion?
+Claire 點解你唔同我講你嘅興趣
 
 82
 00:06:00,580 --> 00:06:03,520
-You may get a few books to read this week.
+你可能今星期可以讀少幾本
 
 83
 00:06:04,020 --> 00:06:06,700
-I don’t have any particular passion.
+我冇咩特別興趣
 
 84
 00:06:06,700 --> 00:06:08,520
-I just know that I must be famous.
+我只知我一定要出名
 
 85
 00:06:08,520 --> 00:06:11,760
-Luckily, I was born in an era when social media can help me with that
+好彩我生係呢個有社交媒體幫到手嘅時代
 
 86
 00:06:11,760 --> 00:06:14,400
-I don’t have to waste time in the library.
+我唔洗嘥時間喺圖書館
 
 87
 00:06:14,520 --> 00:06:17,780
-Social media makes people narcissists
+社交媒體令人自我陶醉
 
 88
 00:06:17,780 --> 00:06:21,020
-You can’t make yourself a lead star in a story
+你冇可能令自己喺 story 做到 ？？
 
 89
 00:06:21,020 --> 00:06:23,599
-if you don’t read enough about it
+如果你冇讀夠呢方面嘅嘢
 
 90
 00:06:23,780 --> 00:06:26,659
-He may just want to avoid you
+佢可能只係想避開你
 
 91
 00:06:27,040 --> 00:06:28,860
-Pang! Ohm!
+Pang！ Ohm！
 
 92
 00:06:28,860 --> 00:06:29,780
-What are you chatting about?
+你講緊咩？
 
 93
 00:06:30,100 --> 00:06:31,960
-Your friend is speaking. Are you listening?
+你個 frd 講緊嘢，你係咪聽緊㗎？
 
 94
 00:06:31,960 --> 00:06:33,099
-Let me tell you.
+話你知
 
 95
 00:06:33,480 --> 00:06:38,080
-All Gifted students can be anything they want after they graduate
+Gifted 班同學畢業之後想做咩都得
 
 96
 00:06:38,460 --> 00:06:42,919
-But those who don’t apply themselves may not graduate
-
-97
-00:06:42,920 --> 00:06:43,460
-
-
-98
-00:06:49,125 --> 00:06:52,385
-
-
-99
-00:06:52,385 --> 00:06:53,385
-
-
-100
-00:06:54,635 --> 00:06:55,635
-
-
-101
-00:06:56,160 --> 00:06:57,160
-
+但冇？到嘅人可能畢唔到業
 
 102
 00:06:59,820 --> 00:07:01,340
-Here are your books.
+呢啲係你嘅書
 
 103
 00:07:04,780 --> 00:07:07,479
-Why do I have to read so much?
+點解我要讀咁多書？
 
 104
 00:07:07,480 --> 00:07:09,920
-Don’t complain. You have only 4 books.
+唔好怨喇，你得 4 本咋
 
 105
 00:07:10,320 --> 00:07:12,940
-Look at mine. I have 8.
+睇下我，我有 8 本呀
 
 106
 00:07:15,180 --> 00:07:17,400
-Your ones look much more interesting.
+你嗰啲望落有趣好多喎
 
 107
 00:07:17,560 --> 00:07:21,520
-If I read all of mine, I’d be like Einstein
-
-108
-00:07:21,520 --> 00:07:21,880
-
+如果我讀晒我嗰啲，我可以做 Einstein
 
 109
 00:07:22,020 --> 00:07:24,000
-Our potentials are different.
+我哋嘅潛能唔同
 
 110
 00:07:24,000 --> 00:07:25,240
-You focus on physics
+你 focus 喺物理
 
 111
 00:07:25,240 --> 00:07:26,940
-But I need to read from myths and folklore
+但我要由神話、民俗學
 
 112
 00:07:26,940 --> 00:07:29,940
-to the cosmos, astronomy and history…
+讀到宇宙、太空、歷史
 
 113
 00:07:29,940 --> 00:07:31,260
-Stop right there.
+好喇好喇
 
 114
 00:07:31,540 --> 00:07:33,880
-Let me go back to my Theory of Relativity
+等我返返去我嘅相對論
 
 115
 00:07:42,020 --> 00:07:45,240
-Look at Pang. He hasn’t discovered his potential yet
+睇下 Pang ，佢未揾到佢嘅潛能
 
 116
 00:07:45,240 --> 00:07:46,780
-but he’s much more attentive than you.
+但佢仲用心過你
 
 117
 00:07:49,440 --> 00:07:50,440
-Pang!
+Pang！
 
 118
 00:07:51,340 --> 00:07:53,159
-Buried deep in your book.
+埋喺你本書到
 
 119
 00:07:53,220 --> 00:07:54,740
-You’re so diligent.
-
-120
-00:07:56,200 --> 00:07:57,200
-
-
-121
-00:07:57,760 --> 00:07:58,760
-
+你好用心喎
 
 122
 00:08:03,040 --> 00:08:05,300
-I thought you’re better than this
-
-123
-00:08:09,420 --> 00:08:10,720
-
-
-124
-00:08:11,725 --> 00:08:12,725
-
-
-125
-00:08:13,385 --> 00:08:15,405
-
-
-126
-00:08:17,475 --> 00:08:18,475
-
-
-127
-00:08:21,240 --> 00:08:22,360
-
+我覺得你比呢個好
 
 128
 00:08:26,200 --> 00:08:27,320
-What?
+做咩？
 
 129
 00:08:28,240 --> 00:08:30,420
-I was just playing one game
+我玩緊遊戲咋
 
 130
 00:08:30,420 --> 00:08:32,420
-You’re looking at me like I’ve killed someone
+你做咩用我殺咗人嘅眼神嚟望我
 
 131
 00:08:33,539 --> 00:08:35,839
-You didn’t kill anyone but time
+你冇殺人但浪費咗時間
 
 132
 00:08:35,980 --> 00:08:38,820
-Mr. Pom asked us to use this time to discover your potential,
+Pom Sir 叫我哋用呢啲時間嚟開發潛能
 
 133
 00:08:38,820 --> 00:08:40,260
-not to play a game.
+唔係用嚟玩
 
 134
 00:08:40,340 --> 00:08:44,220
-I just don’t get why he needed us to read so many books
+我只係唔明點解佢要我哋睇咁多書
 
 135
 00:08:44,440 --> 00:08:48,500
-Not everyone enjoys reading like you do
+唔係個個都好似你咁中意睇書
 
 136
 00:08:51,040 --> 00:08:54,420
-I know but can’t you just do it for your own future?
+我明但你可唔可以當為你嘅將來而睇？
 
 137
 00:08:54,420 --> 00:08:58,579
-How can you be sure that if you do what you’re told,
+你點知你做咗人哋叫你做嘅
 
 138
 00:08:58,760 --> 00:09:00,540
-you will have a bright future?
+你就會有個好嘅將來？
 
 139
 00:09:00,540 --> 00:09:02,540
-What reason do you have not to do it?
-
-140
-00:09:04,120 --> 00:09:05,120
-
+咁點解你又唔做呢？
 
 141
 00:09:08,520 --> 00:09:10,040
-You’ve made the effort just to prove your point?
+你咁做係想証明你諗得啱？
 
 142
 00:09:10,040 --> 00:09:13,540
-To clear any doubts about the future of our seniors who graduated.
+睇下我哋啲師兄嚟消除下我哋嘅疑惑
 
 143
 00:09:13,780 --> 00:09:16,540
-Hey, it features our photos, too.
+咦，有埋我哋嘅相喎
 
 144
 00:09:16,540 --> 00:09:18,480
-This is the latest version.
-
-145
-00:09:20,860 --> 00:09:22,780
-
-
-146
-00:09:23,180 --> 00:09:24,180
-
+呢本係最新嘅
 
 147
 00:09:26,140 --> 00:09:28,120
-Why is there only one student in the first class?
+點解第一班得一個同學
 
 148
 00:09:28,520 --> 00:09:31,439
-Mr. Pom said that the earliest classes would have only 1-2 students.
+Pom Sir話過一開始係得 1-2 個同學
 
 149
 00:09:31,560 --> 00:09:34,060
-The number has increased to 10 over the last couple of years
+近呢幾年加到有 10 個以上
 
 150
 00:09:34,060 --> 00:09:36,060
-Don’t get dragged into this.
+唔好沉迷咗喺呢到
 
 151
 00:09:36,900 --> 00:09:38,120
-The student from the first year won a gold medal
+第一年個同學贏咗金牌
 
 152
 00:09:38,200 --> 00:09:39,520
-from the Chemistry Olympiad competition.
+喺化學奧林匹克比賽
 
 153
 00:09:39,520 --> 00:09:41,819
-She’s come up with a technique to kill cancer cells
+佢發明咗殺癌細胞嘅科技
 
 154
 00:09:41,840 --> 00:09:44,120
-and been awarded by the UNESCO.
+畀 UNESCO 頒奬
 
 155
 00:09:47,200 --> 00:09:48,700
-There are two students from the second year.
+第二年有2個同學
 
 156
 00:09:48,700 --> 00:09:50,220
-One went to study at MIT
+一個去咗MIT讀
 
 157
 00:09:50,220 --> 00:09:51,740
-and works as a research physical scientist.
+做緊物理學家？
 
 158
 00:09:51,740 --> 00:09:54,180
-The other is a diplomatic attaché in the UK.
+另一個喺英國做外交官
 
 159
 00:09:57,800 --> 00:10:02,060
-The next one is Mr. Porama Wongratana, Year Three, ID: 004
+下一個係 Mr. Porama Wongratana 第三年，ID: 004
 
 160
 00:10:02,460 --> 00:10:07,140
-Hey, this is Mr. Pom. He looked like a dork.
+咦，係 Pom Sir，佢望落好傻仔
 
 161
 00:10:07,640 --> 00:10:11,100
-Mr. Pom got a Master’s Degree in Neuroscience from Boston.
+Pom Sir 喺波士頓讀神經科學碩士
 
 162
 00:10:11,340 --> 00:10:14,920
-He became a teacher to help the Director develop our potentials
+你做老師幫校長發展我哋嘅潛能
 
 163
 00:10:15,260 --> 00:10:19,540
-Next up: Mr. Kamthorn Ratanakachorn, Year Three, ID: 006.
+下一個: Mr. Kamthorn Ratanakachorn 第三年，ID: 006
 
 164
 00:10:20,360 --> 00:10:22,660
-Ethnicity: Thailand, Nationality: Thailand, Religious: Buddhism.
+種族：泰國，國籍：泰國，信仰：佛教
 
 165
 00:10:22,660 --> 00:10:24,060
-Wait!
+等等！
 
 166
 00:10:27,080 --> 00:10:28,560
-What are you doing?
+你做咩呀？
 
 167
 00:10:31,300 --> 00:10:32,640
-Strange.
+好奇怪
 
 168
 00:10:33,860 --> 00:10:36,360
-The Gifted ID runs sequentially from Year One, doesn’t it?
+The Gifted ID 唔係由第一年開始順住落㗎咩？
 
 169
 00:10:38,120 --> 00:10:42,040
-Why does it skip 005?
-
-170
-00:10:42,040 --> 00:10:42,939
-
-
-171
-00:10:42,940 --> 00:10:43,440
-
+點解冇咗 005？
 
 172
 00:10:44,020 --> 00:10:45,680
-Must be a technical error.
+一定係整錯咗
 
 173
 00:10:45,680 --> 00:10:47,540
-That shouldn’t happen with the Gifted Program
+Gifted 班唔應該會有錯
 
 174
-00:10:57,760 --> 00:10:59,280
-What are you doing?
+你做緊咩？
 
 175
 00:11:00,960 --> 00:11:02,660
-That yearbook is the newest version.
+呢本 yearbook 係最新
 
 176
 00:11:02,660 --> 00:11:04,180
-It must have been edited
+一定係有人改過
 
 177
 00:11:04,180 --> 00:11:06,359
-If we want to know who 005 is,
+如果我哋想知 005 係邊個
 
 178
 00:11:06,360 --> 00:11:07,740
-we need to look at an older version.
+我哋要揾舊嗰本
 
 179
 00:11:09,340 --> 00:11:11,260
-Wait, Pang.
+等等 Pang
 
 180
 00:11:11,900 --> 00:11:13,079
-I should have believed you
+我應該信你
 
 181
 00:11:13,080 --> 00:11:14,860
-I shouldn’t have let her drag me into this.
-
-182
-00:11:15,060 --> 00:11:15,560
-
-
-183
-00:11:15,560 --> 00:11:16,560
-
+我唔應該聽佢講
 
 184
 00:11:17,600 --> 00:11:20,340
-Year three falls in Academic Year 2006, right?
+第三年係咪 2006 年嘅班?
 
 185
 00:11:20,540 --> 00:11:21,400
-Yes.
+係
 
 186
 00:11:22,060 --> 00:11:24,640
-We need to find the one published in that year
+我哋要揾嗰年出嗰本
 
 187
 00:11:26,860 --> 00:11:28,300
-Pang!
+Pang！
 
 188
 00:11:29,120 --> 00:11:30,380
-Pang!
+Pang！
 
 189
 00:11:30,880 --> 00:11:32,900
-You’re having too much fun here.
+你太。。。
 
 190
 00:11:39,400 --> 00:11:40,699
-Here it is.
+喺呢度
 
 191
 00:11:56,360 --> 00:11:58,580
-This one was published in 2006
+呢本係 2006 年出
 
 192
 00:11:58,580 --> 00:12:00,160
-the year Mr. Pom enrolled in this Program
+Pom Sir 加入呢個班嗰年
 
 193
 00:12:06,240 --> 00:12:09,220
-No. 005 may not even exist
+No. 005 可能根本唔存在
 
 194
 00:12:10,920 --> 00:12:12,300
-This is a tear
+呢到有頁畀人撕咗
 
 195
 00:12:15,100 --> 00:12:18,300
-Is it possible that the missing page contains the info of 005?
+會唔會畀人撕咗嗰頁有 005 嘅資料？
 
 196
 00:12:19,700 --> 00:12:22,180
-Wait, how is this important?
+等等，有咁重要咩？。。。
 
 197
 00:12:53,180 --> 00:12:57,079
-Gifted Student No. 005: Mr. Chanon Taweepong.
+Gifted 班學生 No. 005： Mr. Chanon Taweepong
 
 198
 00:12:57,080 --> 00:12:59,560
-Born on 24 June 1990.
+1990年6月24號
 
 199
 00:12:59,560 --> 00:13:02,119
-He was in classroom one when he enrolled in the Gifted Program
+佢入 Gifted 班嗰陣係一班嘅學生嚟
 
 200
 00:13:02,280 --> 00:13:04,620
-Why has his info page been torn off?
+點解佢嘅資料畀人撕走咗？
 
 201
 00:13:17,020 --> 00:13:19,460
-You don’t believe he quit the program, do you?
+你係咪唔信佢會離開 Gifted 班？
 
 202
 00:13:19,460 --> 00:13:20,880
-Let’s do something fun.
-
-203
-00:13:25,720 --> 00:13:26,720
+不如做啲好玩嘅嘢
 
 
