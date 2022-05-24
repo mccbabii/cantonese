@@ -1,23 +1,3 @@
-1
-00:00:01,555 --> 00:00:03,635
-
-
-2
-00:00:03,635 --> 00:00:06,595
-
-
-3
-00:00:06,595 --> 00:00:09,585
-
-
-4
-00:00:09,585 --> 00:00:12,275
-
-
-5
-00:00:12,280 --> 00:00:14,000
-
-
 6
 00:00:14,900 --> 00:00:19,160
 And my potential is seeing everyone’s feelings
@@ -92,525 +72,374 @@ Hello.
 
 24
 00:01:02,520 --> 00:01:05,020
-My name is Punn Taweesilp
+我叫 Punn Taweesilp
 
 25
 00:01:05,280 --> 00:01:08,200
-I am in M.4, Head Student of the Gifted Program
+我今年中四，係 Gifted 班嘅學生代表
 
 26
 00:01:08,200 --> 00:01:12,720
-Many think I am perfect, but I don’t agree.
+好多人認為我好完美，但我唔噉覺得
 
 27
 00:01:19,040 --> 00:01:23,020
-I have to say, I’ve never met a student as perfect as you
+我要講，我未見過有個學生好似你咁完美
 
 28
 00:01:23,620 --> 00:01:29,100
-The problem is we can’t decide how to utilize this perfection
+但個問題係我哋唔知點樣善用你嘅才能
 
 29
 00:01:29,100 --> 00:01:31,320
-in the upcoming Academic Excellence Competition
+嚟緊嘅學術大賽 {*}
 
 30
 00:01:31,640 --> 00:01:32,940
-What do you say, Mr. Pom?
+Pom Sir 你講咩話？
 
 31
 00:01:33,020 --> 00:01:36,000
-Mr. Pom probably wants to hog his Gifted student
+Pom Sir 想霸住 gifted 班嘅學生
 
 32
 00:01:36,000 --> 00:01:37,520
-and doesn’t want him to help us.
+唔想佢幫我哋
 
 33
 00:01:37,520 --> 00:01:38,460
-That’s not true.
+唔係呀
 
 34
 00:01:38,700 --> 00:01:41,440
-I’m willing to have my Gifted students enter this competition.
+我好樂意畀 gifted 班嘅同學去比賽
 
 35
 00:01:41,440 --> 00:01:44,179
-But I don’t understand why you all want only Punn
+但我唔明點解你只要 Punn
 
 36
 00:01:44,180 --> 00:01:47,820
-Wasuthorn can enter the math event.
+Wasuthorn 可以參加數學比賽
 
 37
 00:01:47,820 --> 00:01:50,020
-But Wave won’t do it.
+但 Wave 唔會參加
 
 38
 00:01:50,100 --> 00:01:51,960
-It can be any student from other classrooms
+可以係其他班嘅同學參加
 
 39
 00:01:51,960 --> 00:01:53,940
-There are other talented students here.
+其他班都有有才能嘅學生
 
 40
 00:01:53,940 --> 00:01:55,539
-Compete in the Language event
+參加 比賽
 
 41
 00:01:55,540 --> 00:01:56,500
-Math.
+數學
 
 42
 00:01:56,560 --> 00:01:57,420
-Sports.
+運動
 
 43
 00:01:57,420 --> 00:01:58,700
-But you like music
+但你中意音樂喎
 
 44
 00:02:04,060 --> 00:02:05,160
-Settle down.
+停
 
 45
 00:02:07,060 --> 00:02:12,020
-Why do we make him choose based on his competency?
+點解我哋要佢揀？
 
 46
 00:02:12,920 --> 00:02:18,040
-Some kid is competent in all the subjects.
+有啲人可以參加晒全部比賽
 
 47
 00:02:19,300 --> 00:02:20,520
-Isn’t that right, Punn?
-
-48
-00:02:22,040 --> 00:02:23,040
-
-
-49
-00:02:23,300 --> 00:02:25,040
-
+係咪呀 Punn
 
 50
 00:02:25,160 --> 00:02:27,520
-Can I compete in all events?
+我可唔可以參加晒全部？
 
 51
 00:02:28,420 --> 00:02:31,619
-Your father will be so proud, I believe so.
-
-52
-00:02:31,620 --> 00:02:32,640
-
-
-53
-00:02:33,640 --> 00:02:34,640
-
-
-54
-00:02:38,640 --> 00:02:40,119
-
+我相信你阿爸會為你感到自豪
 
 55
 00:02:48,020 --> 00:02:52,520
-I am highly competent in music and arts
-
-56
-00:04:20,200 --> 00:04:21,200
-
-
-57
-00:04:47,945 --> 00:04:48,945
-
-
-58
-00:04:50,265 --> 00:04:51,265
-
-
-59
-00:04:57,795 --> 00:04:58,795
-
-
-60
-00:04:58,865 --> 00:05:00,125
-
-
-61
-00:05:05,225 --> 00:05:06,225
-
-
-62
-00:05:13,600 --> 00:05:16,480
-
+我對音樂同藝術好有信心 {*}
 
 63
 00:05:18,020 --> 00:05:19,919
-Can we practice in the actual venue?
+我哋可唔可以去比賽場地練習？
 
 64
 00:05:20,440 --> 00:05:24,060
-We are the Gifted. Of course, we can.
-
-65
-00:05:27,420 --> 00:05:28,980
-
-
-66
-00:05:34,305 --> 00:05:35,695
-
-
-67
-00:05:43,425 --> 00:05:44,425
-
-
-68
-00:05:46,565 --> 00:05:47,565
-
-
-69
-00:06:06,740 --> 00:06:07,740
-
+我哋係 Gifted 班嘅學生，緊係可以
 
 70
 00:06:28,580 --> 00:06:29,580
-Perfect.
+完美
 
 71
 00:06:33,780 --> 00:06:35,780
-The flow wasn’t right at first
+第一下行錯咗 {*}
 
 72
 00:06:36,460 --> 00:06:38,599
-The rhythm was a little off towards the end.
+尾段唔係好跟到個節奏
 
 73
 00:06:38,820 --> 00:06:40,480
-We will get there with some practice
-
-74
-00:06:42,800 --> 00:06:45,340
-
-
-75
-00:06:46,925 --> 00:06:49,415
-
-
-76
-00:06:49,905 --> 00:06:51,575
-
-
-77
-00:06:52,895 --> 00:06:53,895
-
-
-78
-00:06:53,965 --> 00:06:54,965
-
-
-79
-00:06:55,560 --> 00:06:57,660
-
+我哋練多幾次就得喇
 
 80
 00:06:59,420 --> 00:07:01,520
-You forgot one move
+有下你唔記得咗
 
 81
 00:07:03,580 --> 00:07:05,020
-What move?
+邊下？
 
 82
 00:07:05,020 --> 00:07:07,719
-The finale. You didn’t kiss me
+最後，你唔記得錫我
 
 83
 00:07:09,960 --> 00:07:13,359
-Practice is practice. You can’t just play around
-
-84
-00:07:13,360 --> 00:07:14,360
-
+練習緊嗰陣專心啲，唔好係度玩玩下
 
 85
 00:07:14,700 --> 00:07:17,659
-Will a little romance kill you?
-
-86
-00:07:19,260 --> 00:07:20,260
-
+浪漫少少你係咪會死呀？
 
 87
 00:07:20,760 --> 00:07:21,760
-Give it to me.
-
-88
-00:07:24,600 --> 00:07:25,960
-
+畀我
 
 89
 00:07:27,720 --> 00:07:28,720
-Thank you.
-
-90
-00:07:28,920 --> 00:07:29,920
-
+多謝
 
 91
 00:07:34,960 --> 00:07:36,180
-Punn!
-
-92
-00:07:37,820 --> 00:07:38,820
-
-
-93
-00:07:39,880 --> 00:07:40,880
-
+Punn ！
 
 94
 00:07:41,900 --> 00:07:43,400
-Let’s continue with the practice.
-
-95
-00:07:44,600 --> 00:07:45,600
-
+繼續練習喇
 
 96
 00:07:48,180 --> 00:07:49,860
-I know you’re just pretending to be mad
-
-97
-00:07:49,960 --> 00:07:50,460
-
+我知你喺度扮緊嬲
 
 98
 00:07:51,980 --> 00:07:53,340
-I don’t want it anymore
+我唔想再嚟喇
 
 99
 00:07:53,920 --> 00:07:54,920
-Come on
+嚟啦
 
 100
 00:08:03,220 --> 00:08:05,560
-Punn, let go of me.
+Punn 畀我走啦
 
 101
 00:08:06,220 --> 00:08:07,680
-I won’t… not until…
+唔得，直到...
 
 102
 00:08:08,680 --> 00:08:11,460
-Fine, I’m not mad anymore.
+好，我唔會再嬲
 
 103
 00:08:12,820 --> 00:08:13,800
-No
+唔得
 
 104
 00:08:14,740 --> 00:08:16,820
-Not until I want to let go.
-
-105
-00:08:17,900 --> 00:08:18,900
-
+我話可以走之前都唔可以走
 
 106
 00:08:19,280 --> 00:08:20,820
-You have a way with words, don’t you?
+You have a way with words, don’t you? {*}
 
 107
 00:08:21,900 --> 00:08:22,960
-Do you like it?
+你中唔中意？
 
 108
 00:08:24,380 --> 00:08:25,380
-Yes.
+中意
 
 109
 00:08:30,560 --> 00:08:31,560
-Punn!
+Punn！
 
 110
 00:08:32,320 --> 00:08:33,320
-Punn!
+Punn！
 
 111
 00:08:34,360 --> 00:08:35,360
-Punn!
+Punn！
 
 112
 00:08:39,140 --> 00:08:40,340
-Where did you go?
+你去咗邊？
 
 113
 00:08:43,360 --> 00:08:45,500
-It’s almost 7 PM. Let’s call it a day
+就快七點喇，叫做一日喇
 
 114
 00:08:45,500 --> 00:08:47,080
-I have to practice my speech
-
-115
-00:08:48,480 --> 00:08:49,480
-
+我要去練演講
 
 116
 00:08:53,840 --> 00:08:54,840
-Punn,
+Punn
 
 117
 00:08:56,860 --> 00:09:00,180
-I know you’re a super-perfectionist.
+我知你係一個完美主義者
 
 118
 00:09:00,280 --> 00:09:03,900
-But I want to you enjoy it while you dance.
+但我想你跳舞嗰陣你享受嘅
 
 119
 00:09:06,760 --> 00:09:10,240
-Why, don’t I look happy?
+點解，比我望落唔開心咩？
 
 120
 00:09:11,920 --> 00:09:14,860
-Your color clearly tells me you’re under pressure.
+你隻色話我知你好大壓力
 
 121
 00:09:18,280 --> 00:09:21,680
-If only there were 72 hours in a day
+如果一日有72個鐘 {*}
 
 122
 00:09:23,300 --> 00:09:26,500
-How about this? Send me your life schedule
+一係噉樣，你 sd 你個行程畀我
 
 123
 00:09:26,500 --> 00:09:27,680
-I’ll manage it for you.
+我同你度度佢
 
 124
 00:09:28,720 --> 00:09:29,780
-I’ve got to go.
+我要走喇
 
 125
 00:09:32,760 --> 00:09:35,880
-Hey, wait. Please sign here.
+等等，喺度簽個名先
 
 126
 00:09:46,060 --> 00:09:49,459
-Punn, are you left-handed?
-
-127
-00:09:49,460 --> 00:09:50,440
-
+Punn，你左囿ga咩? {*}
 
 128
 00:09:50,500 --> 00:09:51,500
-Yes.
-
-129
-00:10:23,500 --> 00:10:24,500
-
+係
 
 130
 00:10:25,080 --> 00:10:27,360
-Let’s talk about a recent tragedy.
+嚟講下最近發生咗件好遺憾嘅事
 
 131
 00:10:27,360 --> 00:10:31,100
-An Olympiad gold medalist committed suicide
+有位奧運冠軍自殺
 
 132
 00:10:31,100 --> 00:10:34,640
-This is a trending topic in an online community right now
+呢件事係依家網上最熱門嘅話題
 
 133
 00:10:34,640 --> 00:10:36,620
-A question has been asked.
+有一個重點問題
 
 134
 00:10:36,640 --> 00:10:39,420
-Is a talented student often miserable?
+天才係咪都好痛苦
 
 135
 00:10:39,420 --> 00:10:42,599
-Today, we have a chat with a man who can best answer the question,
+今日我哋會同呢個最適合解答嘅男人一齊
 
 136
 00:10:42,600 --> 00:10:45,740
-Prof. Dr. Premchai Taweesilp,
+Dr. Premchai Taweesilp 教授
 
 137
 00:10:45,740 --> 00:10:48,260
-Deputy Permanent Secretary of the Ministry of Education.
+教育局嘅 Deputy Permanent Secretary  {*}
 
 138
 00:10:48,260 --> 00:10:51,720
-First, I’d like to express my condolences to the deceased’s family.
-
-139
-00:10:51,720 --> 00:10:52,300
-
+首先，我想同家屬作出深切嘅慰問
 
 140
 00:10:52,300 --> 00:10:55,680
-On the topic of a talented student being miserable,
+對於天才係咪都係痛苦呢個話題
 
 141
 00:10:55,680 --> 00:10:57,439
-I’ve been hearing this for years.
+我聽過幾十年
 
 142
 00:10:57,860 --> 00:11:02,300
-And I ask myself, when can we get rid of this 50- year-old myth
+我問過自己點可以解決呢個問題 {*}
 
 143
 00:11:02,300 --> 00:11:05,280
-about us being a developing country?
-
-144
-00:11:05,360 --> 00:11:05,780
-
+about us being a developing country? (*)
 
 145
 00:11:06,120 --> 00:11:08,900
-Japan transformed from a country that lost a war
+日本由一個戰敗國
 
 146
 00:11:08,900 --> 00:11:10,240
-to a world leader in innovation
+去到成為創新力領先世界嘅國家
 
 147
 00:11:10,240 --> 00:11:11,320
-How did they do that?
+佢哋係點做到？
 
 148
 00:11:11,320 --> 00:11:13,800
-Certainly not because they think talented people are miserable.
+一定唔係因為佢哋覺得有能力嘅人係痛苦嘅
 
 149
 00:11:13,960 --> 00:11:18,780
-Today, we need to stimulate our kids to develop to their full potential
+依家，我哋要鼓勵嘅細路地發展佢哋所有潛能
 
 150
 00:11:19,220 --> 00:11:21,500
-So, they can help develop our country
+令佢哋可以幫助發展國家
 
 151
 00:11:21,880 --> 00:11:24,600
-If we continue with this kind of false thinking,
+如果我哋繼續有呢個錯誤嘅想法
 
 152
 00:11:25,100 --> 00:11:27,040
-we will be left behind.
+我地會落後
 
 153
 00:11:28,700 --> 00:11:31,400
-How long can you pretend that your life is so great?
-
-154
-00:11:43,740 --> 00:11:44,740
+你可以扮生活得好好扮幾耐？
 
 
