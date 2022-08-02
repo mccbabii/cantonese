@@ -1,91 +1,69 @@
-1
-00:00:01,555 --> 00:00:03,635
-
-
-2
-00:00:03,635 --> 00:00:06,595
-
-
-3
-00:00:06,595 --> 00:00:09,585
-
-
-4
-00:00:09,585 --> 00:00:12,275
-
-
-5
-00:00:12,280 --> 00:00:14,000
-
-
-6
-00:00:15,880 --> 00:00:17,020
-Are you okay?
+你冇嘢嘛？
 
 7
 00:00:17,100 --> 00:00:18,980
-I’m totally fine. Never mind.
+我冇事
 
 8
 00:00:18,980 --> 00:00:20,540
-Mon enters the competition, too.
+Mon 都入到個比賽
 
 9
 00:00:20,600 --> 00:00:23,260
-That’s because her potential is limited to sports.
+噉係因為佢嘅潛能只限於運動
 
 10
 00:00:23,260 --> 00:00:24,300
-But you black out
+但你*
 
 11
 00:00:25,200 --> 00:00:28,100
-You’re this way because you’ve exercised too much of your potential
+你噉你因為你用得你個潛能太多
 
 12
 00:00:28,420 --> 00:00:29,700
-You’re weak.
+你冇力喇
 
 13
 00:00:29,700 --> 00:00:30,560
-Get out!
+出去！
 
 14
 00:00:30,560 --> 00:00:31,560
-Weirdo!
+Weirdo!*
 
 15
 00:00:32,520 --> 00:00:34,640
-Punn has resigned from his Head Student role
+Punn 唔再做學生代表
 
 16
 00:00:34,880 --> 00:00:41,200
-I have some ideas about what I’ll do as the new Head Student
+我諗到我做咗學生代表之後要做咩
 
 17
 00:00:41,380 --> 00:00:44,580
-"Our heroine wins gold medals in all sports events.
-Ms. Patcharamon Pitiwongkorn, M.4/2 (Gifted)."
+"我哋嘅英雄贏哂所有項目嘅金牌
+Ms. Patcharamon Pitiwongkorn, 四年二班 (Gifted)"
 
 18
 00:00:46,880 --> 00:00:51,040
-Next up is ‘Gossip ‘til We Drop’.
+接下來係 ‘Gossip ‘til We Drop’.
 
 19
 00:00:51,080 --> 00:00:53,200
-In the latest update, the Gifted Program had a switch
+根據最新消息， Gifted 班有新改動
 
 20
 00:00:53,200 --> 00:00:54,700
-in the Head Student role
+學生代表個位
 
 21
 00:00:54,740 --> 00:00:58,800
-The main characters are the two students who got in a fight earlier.
+主角係之前爭學生代表個位嘅嗰兩個同學
 
 22
 00:00:58,800 --> 00:01:04,440
-This may intensify the rift within the class even further.
+呢件事可能加劇班上分裂嘅情況
 
 23
 00:01:04,440 --> 00:01:07,400
@@ -93,111 +71,87 @@ Boom! Vroom! Vroom! Vroom!
 
 24
 00:01:07,520 --> 00:01:10,880
-Next up, our school is as weird as the weather right now
+接下來，我哋學校同個天氣一樣奇怪
 
 25
 00:01:11,460 --> 00:01:13,340
-The bras of female students are being stolen
+女學生啲 bra 畀人偷咗
 
 26
 00:01:13,620 --> 00:01:16,620
-Ms. Ladda can’t find the culprit yet.
+Ms. Ladda 未揾到係邊個做
 
 27
 00:01:21,760 --> 00:01:23,280
-What’s wrong with everyone?
+大家咩事？
 
 28
 00:01:29,320 --> 00:01:31,480
-This looks like a zombie movie
+睇落好似喪屍片
 
 29
 00:01:31,480 --> 00:01:33,100
-How did it end up like this?
-
-30
-00:01:40,260 --> 00:01:41,260
-
+點解會變成噉？
 
 31
 00:03:06,680 --> 00:03:09,500
-Two days earlier
+兩日前
 
 32
 00:03:09,760 --> 00:03:14,280
-As you may know, Punn has resigned as the Head Student.
+大家可能已經知道 Punn 唔再做學生代表
 
 33
 00:03:14,500 --> 00:03:18,460
-It is necessary for me to select the new Head Student.
+我需要再揀一個人做學生代表
 
 34
 00:03:18,700 --> 00:03:22,700
-We’ve made the selection based on the list submitted earlier
-
-35
-00:03:22,700 --> 00:03:23,180
-
+我哋會根據之前交嘅表揀
 
 36
 00:03:23,520 --> 00:03:25,360
-The new Head Student is ...
+新學生代表會係...
 
 37
 00:03:26,380 --> 00:03:28,060
 Wave
 
-38
-00:03:28,580 --> 00:03:29,580
-
-
 39
 00:03:29,880 --> 00:03:34,240
-Wave, do you want to say something to your friends?
-
-40
-00:03:34,240 --> 00:03:35,420
-
-
-41
-00:03:35,420 --> 00:03:35,900
-
+Wave，你有冇嘢想同你嘅朋友講
 
 42
 00:03:37,380 --> 00:03:39,400
-As the new Head Student,
+作為新學生代表
 
 43
 00:03:39,940 --> 00:03:41,680
-there’s something I’ve always wanted to do.
+我有啲嘢一直想做
 
 44
 00:03:41,680 --> 00:03:44,060
-I want to see us improved.
+我想見到我哋進步
 
 45
 00:03:44,320 --> 00:03:48,480
-I want to see everyone develop to their full potential.
+我想見到所有人發展到全部潛能
 
 46
 00:03:48,480 --> 00:03:50,120
-Is this really him?
+呢個真係佢嚟？
 
 47
 00:03:50,120 --> 00:03:53,540
-First, we need to tie some loose ends
+首先，我哋要整理好啲嘢
 
 48
 00:03:53,980 --> 00:03:56,940
-For example, we need to deal with those who ditch the class often.
-
-49
-00:03:56,960 --> 00:03:59,100
-
+例如我哋要搞掂成日走堂嘅人
 
 50
 00:03:59,640 --> 00:04:01,720
-All right, it is him.
+好啦，係佢嚟
 
 51
 00:04:02,580 --> 00:04:03,560
@@ -205,27 +159,27 @@ Uh huh.
 
 52
 00:04:03,560 --> 00:04:05,560
-And those who have yet to discover their potential.
+同未揾到潛能嗰啲人
 
 53
 00:04:09,540 --> 00:04:11,520
-To give a nudge to them to study harder,
+刺激佢哋去努力啲
 
 54
 00:04:11,520 --> 00:04:13,960
-I want those who haven’t discovered their potential
+我想要嗰啲未揾到潛能嘅人
 
 55
 00:04:14,200 --> 00:04:15,580
-to maintain the classroom
+去每日整理
 
 56
 00:04:16,920 --> 00:04:19,000
-and clean the room every day
+同清潔課室
 
 57
 00:04:19,459 --> 00:04:21,519
-until they find their potential
+直到佢哋揾到自己嘅潛能
 
 58
 00:04:21,519 --> 00:04:22,780
@@ -233,371 +187,302 @@ Son of a bitch…
 
 59
 00:04:23,040 --> 00:04:25,060
-Why are you doing this?
+你點解要噉做？
 
 60
 00:04:25,100 --> 00:04:26,080
-To motivate them
+去令佢哋有動力
 
 61
 00:04:26,080 --> 00:04:28,080
-If they don’t want to be on the cleaning duty
+如果佢哋唔想清潔嘅
 
 62
 00:04:28,460 --> 00:04:31,660
-they should focus more on finding their potential
+佢哋要專注啲揾個潛能出嚟
 
 63
 00:04:32,240 --> 00:04:33,180
-Who knows?
+邊個知？
 
 64
 00:04:33,520 --> 00:04:36,100
-They may find out their potential is cleaning.
-
+佢哋可能發現佢哋嘅潛能係清潔
 65
 00:04:36,860 --> 00:04:42,880
-Or they may have already known that they don’t have any potential
-
-66
-00:04:43,300 --> 00:04:44,440
-
+或者佢哋一早知自己冇潛能
 
 67
 00:04:44,580 --> 00:04:47,380
-This will be a wakeup call for them to realize that they don’t belong here
+噉會令佢哋知自己唔屬於呢度
 
 68
 00:04:47,380 --> 00:04:48,800
-and resign from the Program.
+然後退出 Gifted 班
 
 69
 00:04:53,700 --> 00:04:58,300
-If you think this will help your friends develop their potentials
-
-70
-00:04:58,300 --> 00:04:59,340
-
+如果你覺得噉樣幫到你嘅朋友發展潛能
 
 71
 00:04:59,340 --> 00:05:00,760
-we can give it a try.
-
-72
-00:05:00,760 --> 00:05:01,360
-
+我哋可以試下
 
 73
 00:05:02,460 --> 00:05:04,060
-What the hell?
+咩料呀？
 
 74
 00:05:04,440 --> 00:05:05,700
-Go back to your seat.
+返番去你個位
 
 75
 00:05:05,700 --> 00:05:06,940
-Let’s start the class.
-
-76
-00:05:17,540 --> 00:05:18,480
-
-
-77
-00:05:18,485 --> 00:05:19,975
-
-
-78
-00:05:21,205 --> 00:05:22,885
-
-
-79
-00:05:28,460 --> 00:05:29,460
-
+開始上堂喇
 
 80
 00:05:29,760 --> 00:05:30,860
-Oh, the Director
+喔，係校長呀
 
 81
 00:05:32,080 --> 00:05:33,240
-I’m so sorry
+對唔住
 
 82
 00:05:38,580 --> 00:05:40,320
-You gave me such a warm welcome.
+你畀咗個好温暖嘅見面禮我
 
 83
 00:05:44,040 --> 00:05:45,420
-What brings you here?
+你做咩嚟呢度？
 
 84
 00:05:46,500 --> 00:05:48,260
-I want to talk to Patchamon.
+我想同 Patchamon講啲嘢
 
 85
 00:05:48,500 --> 00:05:50,400
-Mon isn’t in the Gifted class today.
+Mon 今日唔喺 Gifted 班
 
 86
 00:05:50,760 --> 00:05:51,760
-That’s fine
+冇問題呀
 
 87
 00:05:52,920 --> 00:05:55,960
-What were you upset about?
-
-88
-00:05:55,960 --> 00:05:57,340
-
+你做咩唔開心？
 
 89
 00:05:57,720 --> 00:05:59,840
-I was quite stressed about my potential
+我唧潛能搞到我好有壓力
 
 90
 00:06:00,860 --> 00:06:01,940
-Why?
+點解？
 
 91
 00:06:02,240 --> 00:06:04,880
-I think that I may not have any
+我覺得我冇
 
 92
 00:06:06,580 --> 00:06:09,500
-It’s been months and I haven’t found anything
+已經過咗成個月但我揾唔到
 
 93
 00:06:09,520 --> 00:06:11,580
-that could be my potential.
+有咩可能會係我嘅潛能
 
 94
 00:06:19,960 --> 00:06:22,220
-I understand you, Pawaret
+Pawaret 我明白你嘅
 
 95
 00:06:22,220 --> 00:06:24,420
-But each of us moves at our own pace.
+但我哋每個人嘅節奏都唔同
 
 96
 00:06:24,980 --> 00:06:27,640
-Just because you haven’t found your potential today
+你依家未揾到你嘅潛能
 
 97
 00:06:27,700 --> 00:06:29,900
-doesn’t mean that you don’t have it
+唔代表你冇ga
 
 98
 00:06:30,140 --> 00:06:33,280
-The difficulty in finding your potential
+你揾佢出嚟好難
 
 99
 00:06:33,700 --> 00:06:38,440
-may make it greater than anyone else’s once you find it.
-
-100
-00:06:39,080 --> 00:06:40,080
-
+可能代表怇好勁
 
 101
 00:06:41,460 --> 00:06:43,580
-I’m not sure about that.
+我唔太確定
 
 102
 00:06:45,860 --> 00:06:47,040
-Relax.
+放鬆啲
 
 103
 00:06:48,220 --> 00:06:50,840
-You may have been focusing too hard on it.
+你可能太集中喺呢個問題度
 
 104
 00:06:51,340 --> 00:06:53,800
-Try to do what you don’t usually do.
+試下做啲你平時唔會做嘅嘢
 
 105
 00:06:54,080 --> 00:06:57,240
-Or talk to your friends
+或者同啲唔係好熟
 
 106
 00:06:58,560 --> 00:07:00,340
-whom you don’t usually talk to.
+唧朋友傾下
 
 107
 00:07:01,340 --> 00:07:03,000
-You may understand more.
+你可能會明白多啲
 
 108
 00:07:04,760 --> 00:07:06,280
-What do you mean?
+啫係點？
 
 109
 00:07:16,720 --> 00:07:20,500
-Our school is as weird as the weather right now.
+我哋學校同個天氣一樣奇怪
 
 110
 00:07:20,500 --> 00:07:22,000
-The bras of female students are being stolen
+女學生啲 bra 畀人偷咗
 
 111
 00:07:22,000 --> 00:07:24,960
-Ms. Ladda can’t find the culprit yet.
+Ms. Ladda 未揾到係邊個做
 
 112
 00:07:24,960 --> 00:07:26,560
-Be careful, girls.
+女同學要小心啲
 
 113
 00:07:26,740 --> 00:07:28,940
-Next up is ‘Gossip ‘til We Drop’.
+之後係 ‘Gossip ‘til We Drop’.
 
 114
 00:07:28,940 --> 00:07:30,540
-Come and shower me with gossip
-
-115
-00:07:31,020 --> 00:07:32,380
-
-
-116
-00:07:34,360 --> 00:07:35,360
-
+講啲八卦畀我知
 
 117
 00:07:54,580 --> 00:07:55,720
-Let me go!
+行啦！
 
 118
 00:07:55,840 --> 00:07:56,680
-Let me go!
-
-119
-00:07:56,960 --> 00:07:57,440
-
+行啦！
 
 120
 00:07:57,680 --> 00:07:58,820
-You startled me.
+你望住我們
 
 121
 00:07:58,820 --> 00:08:00,080
-What do you want with me?
+你想點？
 
 122
 00:08:01,500 --> 00:08:03,420
-The Director asked me to give this document to you
+校表叫我畀呢份嘢你
 
 123
 00:08:03,680 --> 00:08:06,060
-And I want to see where you’ve been off to.
+同我想睇下你去邊
 
 124
 00:08:06,060 --> 00:08:07,720
-Why, do you want to join my club?
+做咩，你想入我個學會？
 
 125
 00:08:13,420 --> 00:08:15,440
-I want you to do three things
+我想你做三樣嘢
 
 126
 00:08:15,440 --> 00:08:17,620
-Duck, kick and run
+避開，踢同跑
 
 127
 00:08:17,620 --> 00:08:18,300
-Huh?
+下？
 
 128
 00:08:18,300 --> 00:08:18,920
-Duck!
-
-129
-00:08:20,260 --> 00:08:21,260
-
+避開！
 
 130
 00:08:24,000 --> 00:08:25,140
-Kick!
-
-131
-00:08:26,700 --> 00:08:27,700
-
-
-132
-00:08:30,020 --> 00:08:31,020
-
+踢！
 
 133
 00:08:34,679 --> 00:08:35,759
-Run!
-
-134
-00:08:36,880 --> 00:08:38,460
-
+跑！
 
 135
 00:09:28,740 --> 00:09:30,400
-We lost again.
+我吔又輸咗喇
 
 136
 00:09:30,760 --> 00:09:32,400
-What are you guys playing?
+你哋玩緊咩？
 
 137
 00:09:32,520 --> 00:09:35,320
-Jane set up a bet whether you can knock out
+Jane 賭你打唔打得過
 
 138
 00:09:35,320 --> 00:09:37,680
-everyone in the club within 10 minutes.
+所有學會成員十分鐘內
 
 139
 00:09:37,800 --> 00:09:39,420
-Less than 10
+少過十分鐘
 
 140
 00:09:39,420 --> 00:09:40,720
-She hasn’t broken a sweat.
+佢連汗都冇流過
 
 141
 00:09:40,800 --> 00:09:42,980
-As promised, everyone,
+跟據約定
 
 142
 00:09:43,340 --> 00:09:45,700
-Jane will tidy up the gym today.
+Jane 今日會負責執嘢
 
 143
 00:09:47,000 --> 00:09:48,000
-Congratulations!
+恭喜晒！
 
 144
 00:09:48,400 --> 00:09:51,180
-Wait, stop. This is silly
+等等，停呀，痴線ga
 
 145
 00:09:51,240 --> 00:09:53,380
-What if I accidently broke someone’s neck?
+如果我唔小心整斷人哋條頸噉點萛
 
 146
 00:09:53,480 --> 00:09:54,500
-Calm down,
+冷靜
 
 147
 00:09:57,900 --> 00:09:59,420
-drink this to cool down
-
-148
-00:10:02,540 --> 00:10:03,540
-
+飲呢個降下温(冷靜下)
 
 149
 00:10:04,160 --> 00:10:05,560
-Come on, throw it.
+過嚟，掉啦
 
 150
 00:10:07,800 --> 00:10:09,140
-I think we should go.
+我覺得我哋要走喇
 
 151
 00:10:09,140 --> 00:10:10,420
@@ -605,71 +490,52 @@ No reason to be the front tire of a tricycle.
 
 152
 00:10:10,420 --> 00:10:11,420
-What?
+咩話？
 
 153
 00:10:11,820 --> 00:10:12,740
-A third wheel
-
-154
-00:10:16,440 --> 00:10:17,980
-
-
-155
-00:10:18,505 --> 00:10:21,545
-
-
-156
-00:10:21,580 --> 00:10:23,320
-
+三角戀(關係)
 
 157
 00:10:31,700 --> 00:10:32,500
-Who’s this?
+邊個嚟？
 
 158
 00:10:32,640 --> 00:10:33,680
-My friend
+我個 frd
 
 159
 00:10:33,680 --> 00:10:35,460
-So, what are you doing here?
+所以，你嚟做咩？
 
 160
 00:10:35,460 --> 00:10:37,220
-Are you here to join the club?
+你係嚟入會嘅？
 
 161
 00:10:37,420 --> 00:10:39,840
-Not really. I just want to have a look.
+唔係，我只係嚟睇下
 
 162
 00:10:39,840 --> 00:10:41,200
-We will practice soon.
+我哋就快開始練習
 
 163
 00:10:41,200 --> 00:10:42,680
 I’ll show you. Let’s go.
 
-164
-00:10:46,040 --> 00:10:47,040
-
-
 165
 00:10:49,220 --> 00:10:51,080
-Pang, come here.
+Pang 過嚟
 
 166
 00:10:54,180 --> 00:10:55,760
-This is the practice place
+呢度係練習場地
 
 167
 00:10:59,500 --> 00:11:01,440
-In the National Youth Games,
+喺
 
 168
 00:11:01,460 --> 00:11:03,240
-Coach will send you instead of Jane.
-
-169
-00:11:04,640 --> 00:11:05,640
+教練(決定)唔派 Jane 去派你去
